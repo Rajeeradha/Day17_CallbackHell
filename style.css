@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+   background-color: black;
+}
+.c-center{
+    margin-top: 200px;
+    justify-content: center;
+    align-items: center;
+}
+.center{
+   background: transparent;
+   background-image: image("pexels-jonathan-petersson-399610.jpg");
+}
